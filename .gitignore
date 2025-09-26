@@ -1,0 +1,22 @@
+# Virtual envs
+.venv/
+venv/
+env/
+ENV/
+
+# VS Code settings
+.vscode/
+
+# Python cache & bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Optional: model / large files (don't push)
+*.pkl
+*.joblib
+
+# Misc
+.env
+.DS_Store
