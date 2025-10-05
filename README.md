@@ -13,7 +13,7 @@ A simple **machine learning web app** built with **Streamlit** that classifies t
 - Transforms text using **TF-IDF Vectorization**  
 - Classifies using **Multinomial Naive Bayes**  
 - Interactive web interface with **Streamlit**  
-- Deployable on **Heroku** / **Render** / any cloud  
+
 
 ---
 
